@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <!-- General -->
+    <category label="30000">
+        <setting id="sound" type="bool" label="30001" default="true" />
+        <setting id="timeout" type="slider" label="30002" range="1,15" default="5" option="int" />
+        <setting id="icon_theme" type="folder" label="30003" source="local" default="/usr/share/icons/hicolor/" />
+    </category>
+</settings>
